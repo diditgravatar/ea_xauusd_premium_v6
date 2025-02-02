@@ -75,3 +75,5 @@ Berikut adalah **spesifikasi** dan **keunggulan** dari robot trading XAUUSD Prem
 - **Fitur berita filter** dan **hedging** membuat EA lebih fleksibel dan melindungi akun dari dampak besar pergerakan pasar yang tak terduga.
 
 Dengan menggabungkan **strategi trading yang canggih** dan **manajemen risiko yang efektif**, EA ini dapat membantu Anda **memaksimalkan keuntungan** dan meminimalkan kerugian, menjadikannya pilihan ideal untuk trading XAUUSD otomatis.
+
+## **📌 Kode EA XAUUSD Premium v6 (Advanced Risk Management & Hedging)**
