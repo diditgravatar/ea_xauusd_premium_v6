@@ -1,0 +1,1 @@
+# ea_xauusd_premium_v6
