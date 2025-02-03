@@ -131,7 +131,7 @@ Sebelum menggunakan EA, pastikan Anda sudah menginstal MetaTrader 5 di komputer 
 
 Dengan mengikuti langkah-langkah ini, EA XAUUSD Premium v6 akan siap digunakan untuk trading otomatis di MetaTrader 5. Pastikan untuk terus memantau performanya dan melakukan penyesuaian jika diperlukan untuk hasil yang optimal.
 
-
+**Created By Didit Farafat.**
 
 
          
